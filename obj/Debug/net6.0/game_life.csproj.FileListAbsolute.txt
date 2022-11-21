@@ -1,0 +1,15 @@
+/home/kododoku/DeskTop/GitHubTrash/c_sharps/game_life/bin/Debug/net6.0/game_life
+/home/kododoku/DeskTop/GitHubTrash/c_sharps/game_life/bin/Debug/net6.0/game_life.deps.json
+/home/kododoku/DeskTop/GitHubTrash/c_sharps/game_life/bin/Debug/net6.0/game_life.runtimeconfig.json
+/home/kododoku/DeskTop/GitHubTrash/c_sharps/game_life/bin/Debug/net6.0/game_life.dll
+/home/kododoku/DeskTop/GitHubTrash/c_sharps/game_life/bin/Debug/net6.0/ref/game_life.dll
+/home/kododoku/DeskTop/GitHubTrash/c_sharps/game_life/bin/Debug/net6.0/game_life.pdb
+/home/kododoku/DeskTop/GitHubTrash/c_sharps/game_life/obj/Debug/net6.0/game_life.csproj.AssemblyReference.cache
+/home/kododoku/DeskTop/GitHubTrash/c_sharps/game_life/obj/Debug/net6.0/game_life.GeneratedMSBuildEditorConfig.editorconfig
+/home/kododoku/DeskTop/GitHubTrash/c_sharps/game_life/obj/Debug/net6.0/game_life.AssemblyInfoInputs.cache
+/home/kododoku/DeskTop/GitHubTrash/c_sharps/game_life/obj/Debug/net6.0/game_life.AssemblyInfo.cs
+/home/kododoku/DeskTop/GitHubTrash/c_sharps/game_life/obj/Debug/net6.0/game_life.csproj.CoreCompileInputs.cache
+/home/kododoku/DeskTop/GitHubTrash/c_sharps/game_life/obj/Debug/net6.0/game_life.dll
+/home/kododoku/DeskTop/GitHubTrash/c_sharps/game_life/obj/Debug/net6.0/ref/game_life.dll
+/home/kododoku/DeskTop/GitHubTrash/c_sharps/game_life/obj/Debug/net6.0/game_life.pdb
+/home/kododoku/DeskTop/GitHubTrash/c_sharps/game_life/obj/Debug/net6.0/game_life.genruntimeconfig.cache
